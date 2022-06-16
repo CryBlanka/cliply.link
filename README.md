@@ -1,10 +1,6 @@
-# URL-Shortener
-URL Shortener Service Script
+# Cliply.link
+Cliply a link management platform that lets you harness the power of your links by shortening and sharing your content.
 
-![URLSHORTNER](https://user-images.githubusercontent.com/26626045/77394658-ebc89f00-6dc5-11ea-9bea-c7a635bf8079.jpg)
+![Preview](https://media.discordapp.net/attachments/962458083362230303/986954599128793138/unknown.png?width=814&height=634)
 
-## ForntEnd View :-
 
-![Preview](https://user-images.githubusercontent.com/26626045/77395230-1e26cc00-6dc7-11ea-8987-a7cc3d107bd6.png)
-
-### Watch On Youtube :- https://youtu.be/k9RzaU-MvCA
