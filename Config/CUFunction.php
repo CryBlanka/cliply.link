@@ -5,7 +5,7 @@ class CUFunction{
     private $DBHOST = 'mysql02.sgishere.beep.pl';
     private $DBUSER = 'urlshortener';
     private $DBNAME = 'urlshortener';
-    private $DBPASS = 'Wercia2013%';
+    private $DBPASS = '';
     public $conn;
 
     public function __construct(){
